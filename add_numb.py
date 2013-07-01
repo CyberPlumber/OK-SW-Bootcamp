@@ -1,3 +1,4 @@
+""" This short program just adds numbers. """
 def add_two(a,b):
    return a+b
 def main():
