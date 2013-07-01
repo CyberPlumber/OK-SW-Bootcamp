@@ -1,4 +1,4 @@
-""" This short program just adds numbers. """
+# This short program just adds numbers. This is authored by Aleksandra and John
 from adding import add_two, add_three
 
 def main():
